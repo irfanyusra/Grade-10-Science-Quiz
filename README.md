@@ -1,7 +1,9 @@
 # Grade-10-Science-Quiz
 This is a program that runs a quiz about science. It has a total of 30 questions.
-To run the file, open "scincequiz" in Turing and run the file.
- At the beginning of the quiz, a screen will be appear. On the screeen two buttons will be be displayed :
+
+To run the file, open "ScinceQuiz" in Turing and run the file.
+
+At the beginning of the quiz, a screen will be appear. On the screeen two buttons will be be displayed :
  1. START :
  In which you can choose a category and begin playing
  2. INSTRUCTIONS :
